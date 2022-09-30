@@ -1,0 +1,36 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgba(184, 115, 51 , 0.850);    
+}
+
+h1,
+h2,
+h3{
+   
+    background-color: rgba(206, 250, 5, 0.187);
+    font-weight: bold;
+    text-align: center;
+}
+
+.main-img {
+    width: 400px;
+    height: 250px;
+}
+
+ul{
+    margin-right: 300px;
+    float: right;
+    font-size:20px;
+    list-style: circle;
+}
+
+ol{
+    text-align: center;
+    list-style-position: inside;
+}
+
+.menu{
+    text-align: center;
+    text-decoration: none;
+    font-size: 30px;
+}
