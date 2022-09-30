@@ -11,4 +11,8 @@
 #Successfully improved basic html commands and navigating directories   
 #Successfully got me drunk  
 #-------------------  
-
+#Sucessfully added all css files to coresponding html's  
+#Improved understanding of basic syntax of css  
+#Improved understanding of selectors  
+#Started to wrap my head around the cascade  
+#-------------------
