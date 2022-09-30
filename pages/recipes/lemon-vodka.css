@@ -5,16 +5,15 @@
 
 h1,
 h2,
-h3{
-   
-    background-color: rgba(206, 250, 5, 0.185);
-    font-weight: bold;
+h2{
+    background-color: rgba(255, 255, 0, 0.185);
     text-align: center;
+    font-weight: bold;
 }
 
-.main-img {
+.main-img{
     width: 400px;
-    height: 250px;
+    height: 500px;
     margin-left: 500px;
 }
 
